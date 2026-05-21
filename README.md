@@ -1,73 +1,73 @@
-# Welcome to your Lovable project
+# 🎮 Number Guess
 
-## Project info
+Trabalho avaliativo da disciplina de Gerência de Projetos do IFPE, desenvolvido com foco na aplicação prática das metodologias ágeis, especialmente o SCRUM, durante a produção de um jogo de adivinhação numérica.
 
-**URL**: https://lovable.dev/projects/82994dac-808e-4c77-bac0-ca4a332360b8
+---
 
-## How can I edit this code?
+## 📖 Sobre o Projeto
 
-There are several ways of editing your application.
+O **Number Guess** é um jogo simples de adivinhação de números, desenvolvido para aplicar conceitos de:
 
-**Use Lovable**
+- Planejamento ágil
+- Organização de backlog
+- Sprints
+- Trabalho colaborativo
+- Desenvolvimento incremental utilizando SCRUM
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/82994dac-808e-4c77-bac0-ca4a332360b8) and start prompting.
+O projeto também serviu como prática de desenvolvimento frontend moderno utilizando React, TypeScript e Tailwind CSS.
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 🚀 Tecnologias Utilizadas
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Este projeto foi desenvolvido utilizando:
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- ⚡ Vite
+- ⚛️ React
+- 🟦 TypeScript
+- 🎨 Tailwind CSS
+- 🧩 shadcn/ui
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## 📂 Estrutura do Projeto
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+```bash
+.
+├── .gitignore
+├── LICENSE
+├── README.md
+├── bun.lockb
+├── components.json
+├── eslint.config.js
+├── index.html
+├── package-lock.json
+├── package.json
+├── postcss.config.js
+├── tailwind.config.ts
+├── tsconfig.app.json
+├── tsconfig.json
+├── tsconfig.node.json
+└── vite.config.ts
 ```
+---
+## 📚 Objetivo Acadêmico
 
-**Edit a file directly in GitHub**
+Este projeto foi desenvolvido como atividade avaliativa da disciplina de Gerência de Projetos do IFPE, visando:
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+- Aplicar metodologias ágeis
+- Simular um ambiente real de desenvolvimento
+- Utilizar SCRUM na prática
+- Trabalhar organização e colaboração em equipe
 
-**Use GitHub Codespaces**
+---
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## 👨‍💻 Desenvolvido por
 
-## What technologies are used for this project?
+Projeto acadêmico desenvolvido por estudantes do IFPE para fins educacionais.
 
-This project is built with:
+---
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## 📄 Licença
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/82994dac-808e-4c77-bac0-ca4a332360b8) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Este projeto está sob a licença MIT. Consulte o arquivo `LICENSE` para mais informações.
